@@ -4,6 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML CODE</title>
+</head>
+<body>
+
+            <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/style.css">
     <title>My Favourite Game</title>
 </head>
@@ -31,17 +41,14 @@
                 Dota 2 ma dużą scenę e-sportową, z drużynami z całego świata grającymi w różnych profesjonalnych ligach i turniejach. Valve organizuje Dota Pro Circuit, które są serią turniejów, które przyznają punkty kwalifikacyjne za zdobywanie bezpośrednich zaproszeń na międzynarodowy, najważniejszy turniej gry, który odbywa się corocznie. Internationals posiadają crowdfundingowy system nagród pieniężnych, który osiągnął kwoty powyżej 40 milionów USD, co czyni Dota 2 najbardziej lukratywnym e-sportem. 
             </div>
         </div>
-        <nav>
-            <div class="btn btn-html">
-                <a href="./htmlcode.txt" target="_blank">HTML 5</a>
-            </div>
-            <div class="btn btn-css">
-             <a href="./csscode.txt" target="_blank">CSS 5</a>
-            </div>
-        </nav>
-        </div>
        
-    
+    </div>
+    <div class="btn btn-html">
+        <a href="" target="_blank">HTML 5</a>
+    </div>
+    <div class="btn btn-css">
+        <a href="" target="_blank">CSS 5</a>
+    </div>
 
     
 </body>

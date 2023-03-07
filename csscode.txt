@@ -45,7 +45,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 
-    transform: translateZ(-1px) scale(2);
+    transform: translateZ(-1px) scale(1);
 }
 
 .wrapper h1 {
@@ -111,32 +111,3 @@ body {
     height: 100px;
     width: 100px;
 }
-
-.btn {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border-radius: 30px;
-    width: 100px;
-    height: 60px;
-    background-color: rgba(204, 184, 155,0.6);
-    margin: 30px;
-    
-}
-
-.btn a {
-    text-align: center;
-    text-decoration: none;
-}
-
-.nav{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-}
-
-
